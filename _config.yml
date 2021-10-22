@@ -33,6 +33,11 @@ github_username:  jekyll
 theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
+  - jekyll-analytics
+
+jekyll_analytics:
+  GoogleAnalytics:
+    id: G-XMZXJTZGXT
 
 # Exclude from processing.
 # The following items will not be processed, by default.
